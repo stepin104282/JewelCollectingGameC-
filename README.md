@@ -1,4 +1,4 @@
-This is a Mini Project Using C Programming Language
+This is a Mini Project Using C++ Programming Language
 
 Description:
 
