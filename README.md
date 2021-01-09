@@ -11,4 +11,6 @@ These the are keyboard controls to move the person 'P' :
    3. Press 'W' to move UP.
    4. Press 'Z' to move DOWN.
    5. Press 'Q' to QUIT the Game.
+   
+   
 
