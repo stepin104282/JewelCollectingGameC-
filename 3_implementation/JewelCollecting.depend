@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1608968344 source:c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\src\jewel.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+
+1608969521 source:c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"jewel.h"
+	"test_jewel.h"
+
+1608967895 c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\inc\jewel.h
+
+1601974474 source:c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1601974474 c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\unity\unity.h
+	"unity_internals.h"
+
+1602054410 c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1608967623 source:c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\test\test_jewel.cpp
+	"unity.h"
+	"jewel.h"
+
+1608963425 c:\users\naguc\desktop\jewelcollectingc++\jewelcollecting\test\test_jewel.h
+
